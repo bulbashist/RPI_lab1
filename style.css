@@ -28,6 +28,17 @@ body {
 	height: 745px;
 }
 
+.header h1 {
+	position: absolute;
+	top: 200px;
+	left: 45%;
+	letter-spacing: 2px;
+	color: #ffffff;
+	font-weight: bold;
+	font-family: "Gotham Rounded";
+	text-decoration	: none;
+}
+
 header {
 	width: 100%;
 	
